@@ -1,6 +1,4 @@
-# Optimizing-Agricultural-Production
-
-This Project is been done by the guidence of Udemy Course
+# Optimizing-Agricultural-Productio
 
 ### Problem Statement 
 To predict the best cultivable crop for Suitable land and whether
